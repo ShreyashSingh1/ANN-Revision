@@ -4,3 +4,4 @@ numpy
 scikit-learn
 tensorboard
 streamlit
+scikeras
